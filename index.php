@@ -8,7 +8,7 @@
 	<?php
 		include('header.php');
 	?>
-	
+	<img src="logo.png">
 
 </body>
 </html>
